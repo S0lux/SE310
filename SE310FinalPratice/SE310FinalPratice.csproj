@@ -6,6 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>46df547d-89d1-4adb-a2b3-32941987ed11</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <RootNamespace>SE330FinalPratice</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
